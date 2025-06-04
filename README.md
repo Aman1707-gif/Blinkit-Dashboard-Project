@@ -1,3 +1,4 @@
+![Screenshot (48)](https://github.com/user-attachments/assets/7adb9fb9-c95d-4840-8620-dfd57aba7ee8)
 # Blinkit Dashboard Project 🚀
 
 ## 📌 Objective
