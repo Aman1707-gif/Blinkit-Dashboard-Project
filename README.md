@@ -18,10 +18,9 @@ To analyze Blinkit's quick-commerce operations and visualize KPIs like order vol
 [🔗 Click here to view Blinkit Dashboard](https://app.powerbi.com/links/4WWkQ8gVc0?ctid=a7f5879d-8d95-4f95-b1a0-410c54c47106&pbi_source=linkShare&bookmarkGuid=da37473a-a860-436a-b7f4-a85f30fdc7fd)
 
 ## 📷 Screenshots
-_[![Screenshot](https://github.com/user-attachments/assets/...)]
+![Screenshot 1](PowerBI_Screenshots/[Screenshot (114)](https://github.com/user-attachments/assets/63dd7548-21ed-46b7-8b59-bd83c148b8c5)
+)
+![Screenshot 2](PowerBI_Screenshots/Screenshot2.png)
 
- `PowerBI_Screenshots`._
-
----
 
 **Status:** Completed 
